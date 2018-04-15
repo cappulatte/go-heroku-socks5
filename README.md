@@ -3,7 +3,7 @@
 Make sure you have [Go](http://golang.org/doc/install) and the [Heroku Toolbelt](https://toolbelt.heroku.com/) installed.
 
 ```sh
-$ go get -u github.com/grinat/go-heroku-socks5.git
+$ go get -u github.com/grinat/go-heroku-socks5
 $ cd $GOPATH/src/github.com/heroku/go-getting-started
 $ heroku local
 ```
